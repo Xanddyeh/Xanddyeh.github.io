@@ -6,3 +6,13 @@ h1{
     background-color: goldenrod;
 }
 
+h2{
+    border-bottom: 2px solid black
+    
+}
+
+figure{
+    text-align: center;
+    background-color: whitesmoke;
+    border: 1px solid lightgray;
+}
