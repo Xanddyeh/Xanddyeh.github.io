@@ -30,8 +30,16 @@ figcaption {
 
 figure img {
     width: 600px;
+
 }
 
-img {
-    width: 500px;
+.matriz-yabikus{
+    width: 275px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fundadores-yabikus{
+    width: 275px;
+    margin-left: auto;
+    margin-right: auto;
 }
