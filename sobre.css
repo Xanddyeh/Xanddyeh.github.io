@@ -7,14 +7,13 @@ body {
     
 }
 
-h1 {
+.titulo {
     padding: 10px;
+    font-size:32px;
     background-color: goldenrod;
 }
 
-h2 {
-    
-}
+
 .subtitulo {
     border-bottom: 2px solid black
 
