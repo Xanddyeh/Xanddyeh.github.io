@@ -13,9 +13,13 @@ h1 {
 }
 
 h2 {
-    border-bottom: 2px solid black
     
 }
+.subtitulo {
+    border-bottom: 2px solid black
+
+}
+
 
 figure {
     margin: 30px;
