@@ -61,3 +61,10 @@ h2{
     margin: 16px 0 24px;
     padding-left: 32px;
 }
+.contato__info-titulo,
+.contato__info-descrição{
+    display: inline;
+}
+.contato__info-descrição{
+    margin-left: 10px;
+}
