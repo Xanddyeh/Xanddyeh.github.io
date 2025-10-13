@@ -4,6 +4,9 @@ body {
     margin-right: auto;
     font-family: "Helvetica", "Lucida Grande" , sans-serif;
     color: #3d3d3d;
+
+     font-size: 16px;
+     line-height: 1.5;
     
 }
 
@@ -36,12 +39,12 @@ figure img {
 
 }
 
-.matriz-yabikus{
+.matriz-yabikus {
     width: 275px;
     margin-left: auto;
     margin-right: auto;
 }
-.fundadores-yabikus{
+.fundadores-yabikus {
     width: 275px;
     margin-left: auto;
     margin-right: auto;
@@ -54,17 +57,45 @@ figure img {
 h2{ 
     border-bottom: 2px solid black;
 }
-.contato_subtitulo{
+.contato_subtitulo {
     display: inline;
 }
-.contato_info{
+
+.contato__secao {
+ display: inline-block;
+ vertical-align: top;
+ margin-left: 16px;
+}
+
+.contato__info-telefone
+
+.contato_info {
     margin: 16px 0 24px;
     padding-left: 32px;
 }
 .contato__info-titulo,
-.contato__info-descrição{
+.contato__info-descrição {
     display: inline;
 }
-.contato__info-descrição{
+.contato__info-descrição {
     margin-left: 10px;
+}
+
+.rodape {
+    /* 1.75 x o tamanho da fonte do elemento pai. */
+    padding: 1.75 em  0;
+
+    /* 1.1 x e o tamanho da fonte do BODY. */
+    font size: 1.1rem
+
+}
+
+.rodape__logo {
+    width: 6em;
+
+}
+
+.rodape__copyright {
+    display: inline;
+    margin-left: ;
 }
