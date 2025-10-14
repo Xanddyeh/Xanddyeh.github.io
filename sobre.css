@@ -22,7 +22,6 @@ body {
 
 }
 
-
 figure {
     max-width: 100%;
     box-sizing: border-box;
@@ -36,9 +35,8 @@ figcaption {
     margin-top: 10px;
 }
 
-
 .matriz-yabikus {
-    width: 275px;
+    width: 550px;
     margin-left: auto;
     margin-right: auto;
 }
