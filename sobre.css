@@ -24,6 +24,8 @@ body {
 
 
 figure {
+    max-width: 100%;
+    box-sizing: border-box;
     margin: 30px;
     padding: 15px;
     text-align: center;
